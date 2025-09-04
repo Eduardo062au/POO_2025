@@ -2,7 +2,7 @@ package org.model;
 
 public class Main {
     public static void main(String[] args) {
-        // Criação do cinema, salas, filmes e sessões
+
         Cinema cinema = new Cinema();
         Sala sala1 = new Sala();
         Filme filme1 = new Filme();
