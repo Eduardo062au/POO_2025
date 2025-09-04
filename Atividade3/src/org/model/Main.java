@@ -8,7 +8,7 @@ public class Main {
         Filme filme1 = new Filme();
         Sessao sessao1 = new Sessao();
 
-        // Adicionando salas e filmes ao cinema
+
         cinema.adicionarSala(sala1);
         cinema.adicionarFilme(filme1);
 
